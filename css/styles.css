@@ -180,9 +180,3 @@ body {
     object-fit: cover;
 }
 /*--- Sections ---*/
-.features,
-.cta,
-.site-footer {
-    padding: 56px 0;
-}
-.section-title
